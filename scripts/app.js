@@ -41,7 +41,7 @@ app.init = function () {
 
     localStorage.setItem(app.geodataID, txt);
 
-    // Mississauga (Buckhorn and Tahoe) Campus
+    // San Francisco Geo-coding
     app.pt = [43.639933, -79.608959];
     app.pts = [
         [43.644631, -79.610453],
@@ -97,7 +97,7 @@ app.init = function () {
 */
 
     L.tileLayer('http://{s}.googleapis.com/vt?lyrs=m@174225136&src=apiv3&hl=en-US&x={x}&y={y}&z={z}&s=Galile&style=api%7Csmartmaps', {
-        attribution: 'Map data &copy; 2014 Google',
+        attribution: 'Map data &copy; 2015 Google',
         maxZoom: 22,
         subdomains: ['mt0', 'mt1']
     }).addTo(app.map);
