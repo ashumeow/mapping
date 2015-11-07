@@ -337,21 +337,15 @@ app.checkGeoFence = function (lat, lng, timestamp) {
 
     var status = 'inside';
     var statusColor = 'green';
-    var sndFile = 'sfx/female_hello.mp3';
 
     if (res.length === 0 || res === false) {
         status = 'outside';
         statusColor = 'red';
-        sndFile = 'sfx/female_goodbye.mp3';
     }
 
     document.getElementById('stat_geofence').innerHTML = '<span style="color: ' + statusColor + '">' + status + '</span>';
 
     if (status !== app.lastStatus) {
-        // Play sound
-        document.getElementById('snd').pause();
-        document.getElementById('snd').src = sndFile;
-        document.getElementById('snd').play();
 
         // Send alert text
         var jsonStr = '{';
