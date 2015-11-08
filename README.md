@@ -15,7 +15,8 @@ Use Google Chrome for good user experience :)
 ***
 <b>Functionalities provided:</b><br>
 -- Zooming options (Zoom-in/Zoom-out) <br>
--- Hubs/Hub-spots
+-- Hubs/Hub-spots <br>
+-- Creating geofences
 ***
 ***
 <b>Why Hubs?</b> <br>
