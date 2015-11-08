@@ -7,7 +7,7 @@ When it comes to Javascript APIs for interaction, then it makes use of <a href="
 For HTTP requests such as GET and POST, then it makes use of <a href="https://github.com/alotaiba/FlyJSONP">FlyJSONP</a>.<br>
 ***
 ***
-<b>For Demo: <a href="http://ashumeow.github.io/mapping/">CLICK HERE</a></b> <br>
+<b>For Demo: --- <a href="http://ashumeow.github.io/mapping/">CLICK HERE</a> ---</b> <br>
 While accessing demo, Go to your bottom left and click options -> hubs <br>
 Use Google Chrome for good user experience :)
 ***
