@@ -15,13 +15,13 @@ Use Google Chrome for good user experience :)
 ***
 <b>Functionalities provided:</b><br>
 -- Zooming options (Zoom-in/Zoom-out) <br>
-![](https://github.com/ashumeow/mapping/snapshots/zoom.jpg)
+![](https://github.com/ashumeow/mapping/blob/master/snapshots/zoom.jpg)
 <br>
 -- Hubs/Hub-spots <br>
-![](https://github.com/ashumeow/mapping/snapshots/hub.jpg)
+![](https://github.com/ashumeow/mapping/blob/master/snapshots/hub.jpg)
 <br>
 -- Creating geofences
-![](https://github.com/ashumeow/mapping/snapshots/geofence.jpg)
+![](https://github.com/ashumeow/mapping/blob/master/snapshots/geofence.jpg)
 <br>
 ***
 ***
