@@ -26,7 +26,7 @@ Use Google Chrome for good user experience :)
 <br>
 ***
 ***
--- Creating geofences
+-- Creating geofences <br>
 ![](https://github.com/ashumeow/mapping/blob/master/snapshots/geofence.jpg)
 <br>
 ***
