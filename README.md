@@ -9,8 +9,23 @@ For plotting coordinates of latitudes/longitudes, the points were fetched from <
 ***
 ***
 <b>For Demo: --- <a href="http://ashumeow.github.io/mapping/">CLICK HERE</a> ---</b> <br>
+<br>
+How to access hubs? <br>
 While accessing demo, Go to your bottom left and click options -> hubs <br>
-Use Google Chrome for good user experience :)
+***
+***
+<b>User Experiences: (UI/UX)</b>
+<br>
+Manually checked and it works great in, <br>
+<i>(1) Desktop web browsers: (OS used - Windows 10) </i><br>
+-- Microsoft Edge <br>
+-- Google Chrome <br>
+-- Mozilla Firefox <br>
+<br>
+<i>(2) Mobile Web browsers:</i> <br>
+-- Android phones - Google Chrome (checked in Android lollipop 5) <br>
+-- Windows phones - Mobile IE (checked in Windows Phone 8.1) <br>
+-- Apple - (Not checked -- but, it may work) <br>
 ***
 ***
 <b>Functionalities provided:</b><br>
