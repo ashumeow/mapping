@@ -49,4 +49,5 @@ Manually checked and it works great in, <br>
 <b>Why Hubs?</b> <br>
 Hub-spots were built to make it easier for users in navigating through the map of San Francisco.
 ***
-// TODO: Add some more hub-spots.
+For Donation : <br>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashumeow)
